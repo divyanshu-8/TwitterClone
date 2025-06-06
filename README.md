@@ -130,9 +130,6 @@ This project is a Twitter clone built using Next.js, MongoDB, and NextAuth.js. I
       "images": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"]
     }
     
-    **Example GET Request (Home Timeline):**
-        /api/posts
-    
 ### `api/like.js`
 *   **Purpose:** Handles liking and unliking posts.
 *   **Method:**
